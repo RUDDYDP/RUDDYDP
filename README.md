@@ -1,4 +1,4 @@
-[![Cabeza maestra](https://static.wixstatic.com/media/1524b3_f37b4cc86f1b4beab56e5c2dca8a52ef~mv2.gif)
+![Cabeza maestra](https://static.wixstatic.com/media/1524b3_f37b4cc86f1b4beab56e5c2dca8a52ef~mv2.gif)
 
 # 👨‍💻 ¡Hola! Soy RUDY RAMIREZ
 
